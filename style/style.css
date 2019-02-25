@@ -1,3 +1,41 @@
-body {
-background-color: yellow;
-};
+
+/* 
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Oswald', sans-serif;
+ */
+
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+ html{
+     font-size: 10px;
+     font-family: 'Oswald', sans-serif;
+ }
+
+
+ /*   NAV   */
+
+ /* HEADER */
+ header{
+     height: 40vh;
+     background-image: url(../img/header.jpg);
+     background-size: cover;
+ }
+
+ header h1{
+     font-size: 4rem;
+     color: #fff;
+     text-align: center;
+     line-height: 40vh;
+     background-color: rgba(0,0,0, 50%);
+     
+ }
+
+
+
+
+
